@@ -1,0 +1,241 @@
+ *{
+   margin: 0;
+   padding: 0;
+}
+
+    .topo {
+    background: #3b5998;
+    height: 43px;
+    width: 100%;
+    }
+
+    #container {
+      background:#fffbe2 ;
+    }
+
+    .bloco {
+      padding-top: 10px;
+    }
+
+
+    .appAndroid1 {
+      clear: both;
+      background: #fffbe2;
+      width: 98,1%;
+      height: 43px;
+    }
+
+    .bloco-celular {
+      float: left;
+      width: 0%;
+      margin-left: 10px;
+      margin-right: 31px;
+  }
+    .bloco-celular2 {
+      width: 77%;
+      float: left;
+    }
+    
+    .txtlink1 {
+      text-decoration: none;
+      text-align: left;
+      font-family:   Arial, Helvetica, sans-serif;
+      color: #3b5998;
+      font-size: 13px;
+      font: normal;
+      font-weight: 500
+    }
+
+    .logo {
+      width: 120px;
+      margin-top: 8px;
+    }
+
+
+
+    /* Formulario de login */
+
+    #container-form {
+      margin-top: 15px;
+    }
+
+    .input-style {
+      background:#f5f6f7 ;
+      border:none;
+      border: thin solid #e5e5e5;
+      padding-left: 10px ;
+      
+    }
+
+    .input-style2 {
+      width: 90%;
+      height: 45px;
+      border-radius: 5px 5px 0px 0px;
+      border-bottom: 1px solid #e5e5e5;
+    }
+
+    .input-style3 {
+      width: 90%;
+      height: 45px;
+      border-radius: 0px 0px 5px 5px;
+      border-top: none;
+      margin-bottom: 10px;
+    }
+
+    #bnt-style {
+      width: 90%;
+      height: 40px;
+      border-radius: 5px;
+      background-color: #1877f2;
+      font: bold ;
+      color: white;
+      border: none;
+      margin-bottom: 20px;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    
+
+    .container {
+      clear: both; 
+      width: 95%;
+      height: 30px;
+      text-decoration: none;
+      text-align: left;
+      font-family:   Arial, Helvetica, sans-serif;
+      font-size: 15px;
+      font: normal;
+      font-weight: 500;
+      color: #424242;
+      margin-bottom: 40px;
+      padding-left: 6%;
+    }
+
+    .traço1 {
+      float: left;
+      width: 37%;
+      height: 10px;
+      margin-right: 7%;
+      border-bottom: 1px solid #2f2f2f61;
+    }
+
+    .ou {
+      float: left;
+      width: 4%;
+      height: 30px;
+      margin-right: 9%;
+    }
+
+    .traço2 {
+      float: left;
+      width: 37%;
+      height: 10px;
+      border-bottom: 1px solid #2f2f2f61;
+    }
+
+
+
+
+    
+
+    .container-btn {
+      display: block;
+    }
+
+    .bnt-style2 {
+    width: 41%;
+    height: 38px;
+    border-radius: 5px;
+    background: #00a400;
+    color: white;
+    border: none;
+    margin-bottom: 16px;
+    font-weight: 600;
+    font-size: 13px;
+    }
+
+    #senha {
+      text-decoration: none;
+      color: #7596c8;
+      font-family: 'Roboto-Regular', 'Helvetica', 'sans-serif';
+      font-size: 14px;
+      line-height: 16px;
+      
+    }
+
+    /* Parte final */
+
+    .container-final {
+      padding-top: 51px;
+      padding-left: 20px;
+      clear: both;
+    }
+
+    .bloco-final1 {
+      text-align: center;
+      float: left;
+      margin-left: 40px;
+      margin-right: 57px;
+      
+    }
+
+    .link-filho {
+      margin-bottom: -0.1px;
+    
+    }
+    .link-filho a {
+      text-decoration: none;
+    }
+
+    .idioma {
+      font:12px Arial;
+      color: #576b95;
+    }
+
+    .idioma2 {
+      font: bold 12px Arial;
+      color: #585858a8;
+    }
+
+    /* SEGUNDO BLOCO */
+
+    .bloco-final2 {
+      float: left;
+      text-align: center;
+    }
+
+    .icone-mais {
+      width: 18px;
+      height: 21px;
+      border: 1px solid blue;
+      border-radius: 5px;
+    }
+
+    
+    .icone-mais {
+      width: 19px;
+      height: 18px;
+      border: 1px solid #1f1f66b4;
+      border-radius: 3px;
+      margin-left: 37px;
+    }
+
+    .mais {
+      font-size: 18pt;
+      line-height: 20px;
+      color: #253448ab;
+      font-family: Helvetica, sans-serif;
+    }
+
+
+    #fb-final {
+      margin-top: 84px;
+      font-size: 12px;
+      font: normal;
+      font-weight: 500;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #424242c2;
+    }
+
+  
